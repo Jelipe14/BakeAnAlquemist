@@ -15,4 +15,10 @@ public class MenuInical : MonoBehaviour
         Debug.Log("Salir...");
         Application.Quit();
     }
+
+    public void MainMenu()
+    {
+        SceneManager.LoadScene(0);
+    }
+
 }

@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b10665ef940752f41b1fc6a404460588
+  - enabled: 1
+    path: Assets/Scenes/Mantecada.unity
+    guid: 5d2e64f23e910e5439abe4e37560ce42
   m_configObjects: {}
